@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+  border: 2px solid #333;
+  font-size: 1.2rem
+}
+th {
+  border-collapse: collapse;
+  border: 2px solid #333;
+  background-color: #fcd3ff9f;
+  padding: 10px;
+}
+td {
+  border-collapse: collapse;
+  border: 2px solid #333;
+  padding: 10px;
+  border-bottom: 1px solid #f0f0f0;
+}
